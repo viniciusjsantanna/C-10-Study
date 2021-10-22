@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff0e139d-f495-4a7c-b036-8e80b1d99276": {
+      "ProjectGuid": "ff0e139d-f495-4a7c-b036-8e80b1d99276",
+      "DisplayName": "NET6.WEbapi2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "64bc4bf0-7b14-43e3-bcff-3d6dc6884e1f": {
+      "ProjectGuid": "64bc4bf0-7b14-43e3-bcff-3d6dc6884e1f",
+      "DisplayName": "NET6.Domain",
+      "ColorIndex": 1
+    },
+    "e744184c-4e4a-4dbb-aab7-60041cc2566b": {
+      "ProjectGuid": "e744184c-4e4a-4dbb-aab7-60041cc2566b",
+      "DisplayName": "NET6.Infrastructure",
+      "ColorIndex": 2
+    },
+    "9ac9479e-1f98-459b-bac2-275e031fb854": {
+      "ProjectGuid": "9ac9479e-1f98-459b-bac2-275e031fb854",
+      "DisplayName": "NET6.CrossCutting",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

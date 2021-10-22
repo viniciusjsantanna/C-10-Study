@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Exceptions\Base\ValidationFilter\Models\" />
+    <Folder Include="Exceptions\Customers\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

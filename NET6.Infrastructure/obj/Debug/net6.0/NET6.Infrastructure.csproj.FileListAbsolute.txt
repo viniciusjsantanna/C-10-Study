@@ -1,0 +1,16 @@
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\bin\Debug\net6.0\NET6.Infrastructure.deps.json
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\bin\Debug\net6.0\NET6.Infrastructure.dll
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\bin\Debug\net6.0\ref\NET6.Infrastructure.dll
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\bin\Debug\net6.0\NET6.Infrastructure.pdb
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\bin\Debug\net6.0\NET6.Domain.dll
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\bin\Debug\net6.0\NET6.Domain.pdb
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.GlobalUsings.g.cs
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.AssemblyInfo.cs
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.csproj.CopyComplete
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.dll
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\ref\NET6.Infrastructure.dll
+C:\Users\139988\source\repos\teste.net6\NET6.Infrastructure\obj\Debug\net6.0\NET6.Infrastructure.pdb
